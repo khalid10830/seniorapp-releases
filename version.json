@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "releaseNotes": "Synchronisation directe WhatsApp 1-clic (discussions, groupes, statuts et photos de profil), support complet des groupes avec noms des expéditeurs et photos, suppression des boutons sync superflus et système de mise à jour automatique.",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "releaseNotes": "Correction de la mise à jour qui se reproposait en boucle, synchronisation WhatsApp fiable (discussions, groupes et messages de chaque conversation), onglet Discussions limité aux vraies conversations et nouvel onglet Contacts pour démarrer une discussion.",
   "downloadUrl": "https://raw.githubusercontent.com/khalid10830/seniorapp-releases/main/SeniorApp.apk"
 }
