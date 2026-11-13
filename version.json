@@ -2,6 +2,5 @@
   "versionCode": 5,
   "versionName": "1.0.4",
   "releaseNotes": "Envois et appels réels : textes, messages vocaux et photos partent vraiment par WhatsApp, après vérification du nom de la discussion (jamais au mauvais destinataire), et les appels audio et vidéo se lancent dans WhatsApp avec leur vraie durée (ou « sans réponse »). Statut honnête de chaque message : ⏳ envoi, ✓ envoyé, ❗ non envoyé avec Réessayer, ⚠️ à vérifier quand WhatsApp n'a pas confirmé (jamais de double envoi). Plus de faux « Vu » ni de faux « en ligne », plus de doublons entre notifications, synchronisation et import, vos propres messages ne sont plus attribués au contact. Numéros étrangers respectés (+212, +213…), un numéro = un contact. Anciennes données corrigées (heures des imports, faux « Vu »). Aussi : import des gros exports sans plantage, widget à jour, rotation sans perte, micro et caméra demandés au bon moment, photos plus légères, mode pause, espace aidant (appui long de 2 secondes), interface arabe complétée. Aussi : deux groupes au même nom restent séparés, un contact renommé garde sa conversation, messages supprimés et réactions de WhatsApp bien gérés.",
-  "downloadUrl": "https://raw.githubusercontent.com/khalid10830/seniorapp-releases/main/SeniorApp.apk",
-  "sha256": "bbe5702ebf3da760266ccf112c0bfa18128f66bca88dd83ea6e61d76c7b04aa1"
+  "downloadUrl": "https://raw.githubusercontent.com/khalid10830/seniorapp-releases/main/SeniorApp.apk"
 }
