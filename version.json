@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "releaseNotes": "Mise à jour réparée : les nouvelles versions sont signées avec la même clé que l'application installée, la mise à jour intégrée fonctionne de nouveau (sans désinstaller). Paramètres : ils ne s'ouvrent qu'en gardant le doigt 2 secondes sur ⚙️ Paramètres (une barre se remplit pendant l'appui), aussi au premier démarrage. Accueil : seule la version de l'application est affichée sous « WhatsApp ». Photos de profil : recherche plus fiable dans WhatsApp, et le résultat de la synchronisation indique combien de photos ont été récupérées, ou pourquoi aucune ne l'a été.",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "releaseNotes": "Mise à jour : le résultat (téléchargement, refus, erreur) s'affiche maintenant juste sous le bouton « Installer la mise à jour », avec la marche à suivre quand Android refuse l'installation. Mise à jour réparée : les nouvelles versions sont signées avec la même clé que l'application installée, la mise à jour intégrée fonctionne de nouveau (sans désinstaller). Paramètres : ils ne s'ouvrent qu'en gardant le doigt 2 secondes sur ⚙️ Paramètres (une barre se remplit pendant l'appui), aussi au premier démarrage. Accueil : seule la version de l'application est affichée sous « WhatsApp ». Photos de profil : recherche plus fiable dans WhatsApp, et le résultat de la synchronisation indique combien de photos ont été récupérées, ou pourquoi aucune ne l'a été.",
   "downloadUrl": "https://raw.githubusercontent.com/khalid10830/seniorapp-releases/main/SeniorApp.apk",
-  "sha256": "d7e2516875c0671d0a4576810576fd6bf6de6524b419e44a35f022f8222cfbb7"
+  "sha256": "3373583a973cdd41d77af6dca748016155bc19485a8da74524dcdb8062a91544"
 }
