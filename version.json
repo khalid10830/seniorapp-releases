@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "releaseNotes": "Écran plus réactif : les boutons répondent du premier coup, même si le doigt bouge un peu, et l'écran ne ralentit plus quand des messages WhatsApp arrivent. Le bandeau « Raccrocher » disparaît tout seul après un appel décroché dans WhatsApp. Photos de profil : les vraies photos WhatsApp des contacts et des groupes sont récupérées pendant la synchronisation (Android 14 et plus). Un groupe ne prend plus la photo de la personne qui a écrit, et un contact ne prend plus la photo du propriétaire du téléphone. La silhouette grise par défaut n'est plus enregistrée. La photo choisie par l'aidant reste prioritaire, et le journal d'appels montre la photo actuelle de chaque contact.",
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "releaseNotes": "L'espace Aidant s'appelle maintenant « Paramètres » et s'ouvre sans code PIN (toujours avec un appui long de 2 secondes). La version installée est affichée en petit sur l'accueil. Écran plus réactif : les boutons répondent du premier coup, même si le doigt bouge un peu, et l'écran ne ralentit plus quand des messages WhatsApp arrivent. Le bandeau « Raccrocher » disparaît tout seul après un appel décroché dans WhatsApp. Photos de profil : les vraies photos WhatsApp des contacts et des groupes sont récupérées pendant la synchronisation (Android 14 et plus). Un groupe ne prend plus la photo de la personne qui a écrit, et un contact ne prend plus la photo du propriétaire du téléphone. La silhouette grise par défaut n'est plus enregistrée. La photo choisie dans les Paramètres reste prioritaire, et le journal d'appels montre la photo actuelle de chaque contact.",
   "downloadUrl": "https://raw.githubusercontent.com/khalid10830/seniorapp-releases/main/SeniorApp.apk"
 }
