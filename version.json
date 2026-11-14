@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.10",
-  "releaseNotes": "Boutons réparés dans les fenêtres d'une discussion (écrire un message, envoyer une photo, message vocal, supprimer, photo en grand) : ils ne réagissaient pas dès que le doigt bougeait un peu en appuyant, et le champ de texte ne s'ouvrait pas. Photos enfin affichées : les photos de profil (WhatsApp, répertoire, choisies dans les Paramètres) et les photos reçues ou envoyées dans les discussions ne s'affichaient plus depuis la version 1.0.3, à cause d'une erreur de chargement des images. Elles apparaissent maintenant, sans nouvelle synchronisation pour celles déjà récupérées. Mise à jour : le résultat s'affiche juste sous le bouton « Installer la mise à jour ».",
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "releaseNotes": "Appels : le bouton « Raccrocher » de SeniorApp termine vraiment l'appel (il utilise le bouton Raccrocher de WhatsApp, même quand l'écran d'appel cache ses boutons), et l'écran vert disparaît dès que WhatsApp lance l'appel. Messages vocaux : quand WhatsApp demande à qui envoyer, la bonne discussion est choisie au lieu d'attendre. Boutons réparés dans les fenêtres d'une discussion (écrire un message, envoyer une photo, message vocal, supprimer, photo en grand) : ils ne réagissaient pas dès que le doigt bougeait un peu en appuyant, et le champ de texte ne s'ouvrait pas. Photos enfin affichées : les photos de profil (WhatsApp, répertoire, choisies dans les Paramètres) et les photos reçues ou envoyées dans les discussions ne s'affichaient plus depuis la version 1.0.3, à cause d'une erreur de chargement des images. Elles apparaissent maintenant, sans nouvelle synchronisation pour celles déjà récupérées. Mise à jour : le résultat s'affiche juste sous le bouton « Installer la mise à jour ».",
   "downloadUrl": "https://raw.githubusercontent.com/khalid10830/seniorapp-releases/main/SeniorApp.apk",
-  "sha256": "d9ea9b8fb885c1ad5ff0b36b080cb4c80ff879b238c989fcdd2f39351b027055"
+  "sha256": "1e7fcffc0a43967b6db51bd6e44e5e3b51b07bbf760d93457521467b55264285"
 }
